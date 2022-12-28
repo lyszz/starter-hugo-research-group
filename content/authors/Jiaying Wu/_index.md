@@ -1,41 +1,49 @@
 ---
 # Display name
-title: 吳恩達
+title: Jiaying Wu
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - Jiaying Wu
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
-
+role: Assistant Professor of Advanced Materials Thrust 
+role: Affiliate Assistant Professor Dept of Chemical & Biological Engineering
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Hong Kong University of Science and Technology (Guangzhou)
     url: ''
+  - name: Hong Kong University of Science and Technology
+    url: ''
+  
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Prof. Jiaying Wu is an assistant Professor in the Advanced Materials Thrust, Function Hub, HKUST(GZ) and affiliate assistant professor in the Department of Chemical and Biological Engineering, The HKUST. Her research addresses the device physics and photophysics of new materials for solar energy conversion, including organic and perovskite solar cells as well as materials for photon driven photo-detecting. Her current research focuses on developing fundamental understandings of charge carrier dynamics in photon energy conversion materials/devices by using ultrafast spectroscopy and transient optoelectronic characterizations. She is leading an advanced characterization and analysis team at HKUST(GZ) to address and underpin the fundamental challenges for the next generation materials and technologies. 
+
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Photon Energy Conversion
+  - Charge Carrier Dynamics
+  - Photophysics
+  - Organic and Perovskite Solar
+  - Organic LEDs
+  - Photocatalysis
 
-education:
+
+education and Academic Appointments:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Chemistry research
+      institution: Imperial College London, UK
+      year: 2019
+    - course: MRes in Nanomaterials
+      institution: Imperial College London, UK
+      year: 2013-2014
+    - course: BEng in Solid State Electronics
+      institution: University of Electronic Science and Technology of China
+      year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
